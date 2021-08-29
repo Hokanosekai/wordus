@@ -17,9 +17,9 @@ In order to do that, you need to execute ``browserify input-file -o output-file`
 
 Play the game here https://wordus.xyz
 
-The concept of this game is to type as fast as possible and as many **Latin** words as possible (French/English soon) in the time allotted at the beginning of the game.
+The concept of this game is to type as fast as possible and as many **Latin** / **French** / **English** words as possible in the time allotted at the beginning of the game.
 
-During the game the words are chosen randomly from a bank of **2600 words**.  
+During the game the words are chosen randomly from a bank of **2600 Latin words**, **68000 English words**, **320000 French words**.  
 
 If a word is well written it will bring back points once the key ``ENTER`` is pressed but for that you will have to be the **fastest** to type it.  
 
